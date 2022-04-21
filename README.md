@@ -1,5 +1,5 @@
 # Devsearch
-A socail platform for developers where they can connect with same work oriented engineers. Devs can show off their technical skills by flaunting their awesome projects.
+A social platform for developers where they can connect with same work oriented engineers. Devs can show off their technical skills by flaunting their awesome projects.
 
 ## Functionalities : 
 ### 1. New user need to SignUp and existing users need to SignIn to access all functionalities.
