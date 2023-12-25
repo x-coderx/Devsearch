@@ -31,8 +31,3 @@ A social platform for developers where they can connect with same work oriented 
 
   ![](static/images/Interface.PNG)
 
-
-## Model : 
-
-
-![](static/images/DB_image.PNG)
